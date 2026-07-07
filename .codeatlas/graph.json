@@ -13,8 +13,8 @@
       "path": ".github",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 900,
+        "y": 40
       }
     },
     {
@@ -25,8 +25,8 @@
       "path": ".github/DISCUSSION_TEMPLATE",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 2330,
+        "y": 180
       }
     },
     {
@@ -37,8 +37,8 @@
       "path": ".github/DISCUSSION_TEMPLATE/bug-report.yml",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 2330,
+        "y": 320
       }
     },
     {
@@ -49,8 +49,8 @@
       "path": ".github/FUNDING.yml",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 2110,
+        "y": 180
       }
     },
     {
@@ -61,8 +61,8 @@
       "path": ".github/ISSUE_TEMPLATE",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 1890,
+        "y": 180
       }
     },
     {
@@ -73,8 +73,8 @@
       "path": ".github/ISSUE_TEMPLATE/bug_report.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 2020,
+        "y": 320
       }
     },
     {
@@ -85,8 +85,8 @@
       "path": ".github/ISSUE_TEMPLATE/config.yml",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 1800,
+        "y": 320
       }
     },
     {
@@ -97,8 +97,8 @@
       "path": ".github/dependabot.yml",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 1470,
+        "y": 180
       }
     },
     {
@@ -109,8 +109,8 @@
       "path": ".github/pull_request_template.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 1250,
+        "y": 180
       }
     },
     {
@@ -121,8 +121,8 @@
       "path": ".github/workflows",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 460,
+        "y": 180
       }
     },
     {
@@ -133,8 +133,8 @@
       "path": ".github/workflows/compressed-size.yml",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 1580,
+        "y": 320
       }
     },
     {
@@ -145,8 +145,8 @@
       "path": ".github/workflows/docs.yml",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 1360,
+        "y": 320
       }
     },
     {
@@ -157,8 +157,8 @@
       "path": ".github/workflows/preview-release.yml",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 1140,
+        "y": 320
       }
     },
     {
@@ -169,8 +169,8 @@
       "path": ".github/workflows/publish.yml",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 920,
+        "y": 320
       }
     },
     {
@@ -181,8 +181,8 @@
       "path": ".github/workflows/test-multiple-builds.yml",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 700,
+        "y": 320
       }
     },
     {
@@ -193,8 +193,8 @@
       "path": ".github/workflows/test-multiple-versions.yml",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 480,
+        "y": 320
       }
     },
     {
@@ -205,8 +205,8 @@
       "path": ".github/workflows/test-old-typescript.yml",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 260,
+        "y": 320
       }
     },
     {
@@ -217,8 +217,8 @@
       "path": ".github/workflows/test.yml",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 40,
+        "y": 320
       }
     },
     {
@@ -229,8 +229,8 @@
       "path": ".gitignore",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 1690,
+        "y": 40
       }
     },
     {
@@ -241,8 +241,8 @@
       "path": ".prettierignore",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 1910,
+        "y": 40
       }
     },
     {
@@ -253,8 +253,8 @@
       "path": "CONTRIBUTING.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 2130,
+        "y": 40
       }
     },
     {
@@ -265,8 +265,8 @@
       "path": "FUNDING.json",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 2350,
+        "y": 40
       }
     },
     {
@@ -277,8 +277,8 @@
       "path": "LICENSE",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 2570,
+        "y": 40
       }
     },
     {
@@ -289,8 +289,8 @@
       "path": "README.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 2790,
+        "y": 40
       }
     },
     {
@@ -301,8 +301,8 @@
       "path": "docs",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 8960,
+        "y": 40
       }
     },
     {
@@ -313,8 +313,8 @@
       "path": "docs/bear.jpg",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 10050,
+        "y": 180
       }
     },
     {
@@ -325,8 +325,8 @@
       "path": "docs/favicon.ico",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 9830,
+        "y": 180
       }
     },
     {
@@ -337,8 +337,8 @@
       "path": "docs/index.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 9610,
+        "y": 180
       }
     },
     {
@@ -349,8 +349,8 @@
       "path": "docs/learn",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 8390,
+        "y": 180
       }
     },
     {
@@ -361,8 +361,8 @@
       "path": "docs/learn/getting-started",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 10690,
+        "y": 320
       }
     },
     {
@@ -373,8 +373,8 @@
       "path": "docs/learn/getting-started/comparison.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 10930,
+        "y": 460
       }
     },
     {
@@ -385,8 +385,8 @@
       "path": "docs/learn/getting-started/introduction.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 10690,
+        "y": 460
       }
     },
     {
@@ -397,8 +397,8 @@
       "path": "docs/learn/guides",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 8170,
+        "y": 320
       }
     },
     {
@@ -409,8 +409,8 @@
       "path": "docs/learn/guides/advanced-typescript.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 10470,
+        "y": 460
       }
     },
     {
@@ -421,8 +421,8 @@
       "path": "docs/learn/guides/auto-generating-selectors.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 10250,
+        "y": 460
       }
     },
     {
@@ -433,8 +433,8 @@
       "path": "docs/learn/guides/beginner-typescript.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 10030,
+        "y": 460
       }
     },
     {
@@ -445,8 +445,8 @@
       "path": "docs/learn/guides/connect-to-state-with-url-hash.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 9810,
+        "y": 460
       }
     },
     {
@@ -457,8 +457,8 @@
       "path": "docs/learn/guides/event-handler-in-pre-react-18.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 9590,
+        "y": 460
       }
     },
     {
@@ -469,8 +469,8 @@
       "path": "docs/learn/guides/flux-inspired-practice.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 9370,
+        "y": 460
       }
     },
     {
@@ -481,8 +481,8 @@
       "path": "docs/learn/guides/how-to-reset-state.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 9150,
+        "y": 460
       }
     },
     {
@@ -493,8 +493,8 @@
       "path": "docs/learn/guides/immutable-state-and-merging.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 8930,
+        "y": 460
       }
     },
     {
@@ -505,8 +505,8 @@
       "path": "docs/learn/guides/initialize-state-with-props.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 8710,
+        "y": 460
       }
     },
     {
@@ -517,8 +517,8 @@
       "path": "docs/learn/guides/maps-and-sets-usage.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 8490,
+        "y": 460
       }
     },
     {
@@ -529,8 +529,8 @@
       "path": "docs/learn/guides/nextjs.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 8270,
+        "y": 460
       }
     },
     {
@@ -541,8 +541,8 @@
       "path": "docs/learn/guides/practice-with-no-store-actions.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 8050,
+        "y": 460
       }
     },
     {
@@ -553,8 +553,8 @@
       "path": "docs/learn/guides/prevent-rerenders-with-use-shallow.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 7830,
+        "y": 460
       }
     },
     {
@@ -565,8 +565,8 @@
       "path": "docs/learn/guides/slices-pattern.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 7610,
+        "y": 460
       }
     },
     {
@@ -577,8 +577,8 @@
       "path": "docs/learn/guides/ssr-and-hydration.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 7390,
+        "y": 460
       }
     },
     {
@@ -589,8 +589,8 @@
       "path": "docs/learn/guides/testing.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 7170,
+        "y": 460
       }
     },
     {
@@ -601,8 +601,8 @@
       "path": "docs/learn/guides/tutorial-tic-tac-toe.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 6950,
+        "y": 460
       }
     },
     {
@@ -613,8 +613,8 @@
       "path": "docs/learn/guides/updating-state.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 6730,
+        "y": 460
       }
     },
     {
@@ -625,8 +625,8 @@
       "path": "docs/learn/index.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 6530,
+        "y": 320
       }
     },
     {
@@ -637,8 +637,8 @@
       "path": "docs/reference",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 4320,
+        "y": 180
       }
     },
     {
@@ -649,8 +649,8 @@
       "path": "docs/reference/apis",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 5960,
+        "y": 320
       }
     },
     {
@@ -661,8 +661,8 @@
       "path": "docs/reference/apis/create-store.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 6510,
+        "y": 460
       }
     },
     {
@@ -673,8 +673,8 @@
       "path": "docs/reference/apis/create-with-equality-fn.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 6290,
+        "y": 460
       }
     },
     {
@@ -685,8 +685,8 @@
       "path": "docs/reference/apis/create.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 6070,
+        "y": 460
       }
     },
     {
@@ -697,8 +697,8 @@
       "path": "docs/reference/apis/shallow.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 5850,
+        "y": 460
       }
     },
     {
@@ -709,8 +709,8 @@
       "path": "docs/reference/hooks",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 5300,
+        "y": 320
       }
     },
     {
@@ -721,8 +721,8 @@
       "path": "docs/reference/hooks/use-shallow.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 5630,
+        "y": 460
       }
     },
     {
@@ -733,8 +733,8 @@
       "path": "docs/reference/hooks/use-store-with-equality-fn.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 5410,
+        "y": 460
       }
     },
     {
@@ -745,8 +745,8 @@
       "path": "docs/reference/hooks/use-store.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 5190,
+        "y": 460
       }
     },
     {
@@ -757,8 +757,8 @@
       "path": "docs/reference/index.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 4990,
+        "y": 320
       }
     },
     {
@@ -769,8 +769,8 @@
       "path": "docs/reference/integrations",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 4640,
+        "y": 320
       }
     },
     {
@@ -781,8 +781,8 @@
       "path": "docs/reference/integrations/immer-middleware.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 4970,
+        "y": 460
       }
     },
     {
@@ -793,8 +793,8 @@
       "path": "docs/reference/integrations/persisting-store-data.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 4750,
+        "y": 460
       }
     },
     {
@@ -805,8 +805,8 @@
       "path": "docs/reference/integrations/third-party-libraries.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 4530,
+        "y": 460
       }
     },
     {
@@ -817,8 +817,8 @@
       "path": "docs/reference/middlewares",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 3430,
+        "y": 320
       }
     },
     {
@@ -829,8 +829,8 @@
       "path": "docs/reference/middlewares/combine.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 4310,
+        "y": 460
       }
     },
     {
@@ -841,8 +841,8 @@
       "path": "docs/reference/middlewares/devtools.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 4090,
+        "y": 460
       }
     },
     {
@@ -853,8 +853,8 @@
       "path": "docs/reference/middlewares/immer.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 3870,
+        "y": 460
       }
     },
     {
@@ -865,8 +865,8 @@
       "path": "docs/reference/middlewares/persist.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 3650,
+        "y": 460
       }
     },
     {
@@ -877,8 +877,8 @@
       "path": "docs/reference/middlewares/redux.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 3430,
+        "y": 460
       }
     },
     {
@@ -889,8 +889,8 @@
       "path": "docs/reference/middlewares/subscribe-with-selector.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 3210,
+        "y": 460
       }
     },
     {
@@ -901,8 +901,8 @@
       "path": "docs/reference/migrations",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 2770,
+        "y": 320
       }
     },
     {
@@ -913,8 +913,8 @@
       "path": "docs/reference/migrations/migrating-to-v4.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 2990,
+        "y": 460
       }
     },
     {
@@ -925,8 +925,8 @@
       "path": "docs/reference/migrations/migrating-to-v5.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 2770,
+        "y": 460
       }
     },
     {
@@ -937,8 +937,8 @@
       "path": "docs/reference/previous-versions",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 2550,
+        "y": 320
       }
     },
     {
@@ -949,8 +949,8 @@
       "path": "docs/reference/previous-versions/zustand-v3-create-context.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 2550,
+        "y": 460
       }
     },
     {
@@ -961,8 +961,8 @@
       "path": "eslint.config.mjs",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 9940,
+        "y": 40
       }
     },
     {
@@ -973,8 +973,8 @@
       "path": "examples",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 12940,
+        "y": 40
       }
     },
     {
@@ -985,8 +985,8 @@
       "path": "examples/demo",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 14570,
+        "y": 180
       }
     },
     {
@@ -997,8 +997,8 @@
       "path": "examples/demo/.gitignore",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 15350,
+        "y": 320
       }
     },
     {
@@ -1009,8 +1009,8 @@
       "path": "examples/demo/eslint.config.js",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 15130,
+        "y": 320
       }
     },
     {
@@ -1021,8 +1021,8 @@
       "path": "examples/demo/index.html",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 14910,
+        "y": 320
       }
     },
     {
@@ -1033,8 +1033,8 @@
       "path": "examples/demo/package.json",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 14690,
+        "y": 320
       }
     },
     {
@@ -1045,8 +1045,8 @@
       "path": "examples/demo/public",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 14350,
+        "y": 320
       }
     },
     {
@@ -1057,8 +1057,8 @@
       "path": "examples/demo/public/favicon.ico",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 15340,
+        "y": 460
       }
     },
     {
@@ -1069,8 +1069,8 @@
       "path": "examples/demo/public/logo192.png",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 15120,
+        "y": 460
       }
     },
     {
@@ -1081,8 +1081,8 @@
       "path": "examples/demo/public/logo512.png",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 14900,
+        "y": 460
       }
     },
     {
@@ -1093,8 +1093,8 @@
       "path": "examples/demo/public/manifest.json",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 14680,
+        "y": 460
       }
     },
     {
@@ -1105,8 +1105,8 @@
       "path": "examples/demo/public/ogimage.jpg",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 14460,
+        "y": 460
       }
     },
     {
@@ -1117,8 +1117,8 @@
       "path": "examples/demo/public/robots.txt",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 14240,
+        "y": 460
       }
     },
     {
@@ -1129,8 +1129,8 @@
       "path": "examples/demo/public/vite.svg",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 14020,
+        "y": 460
       }
     },
     {
@@ -1141,8 +1141,8 @@
       "path": "examples/demo/src",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 12770,
+        "y": 320
       }
     },
     {
@@ -1153,8 +1153,8 @@
       "path": "examples/demo/src/App.jsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 13900,
+        "y": 600
       }
     },
     {
@@ -1165,8 +1165,8 @@
       "path": "examples/demo/src/components",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 13600,
+        "y": 600
       }
     },
     {
@@ -1177,8 +1177,8 @@
       "path": "examples/demo/src/components/CodePreview.jsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 14550,
+        "y": 740
       }
     },
     {
@@ -1189,8 +1189,8 @@
       "path": "examples/demo/src/components/CopyButton.jsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 14720,
+        "y": 880
       }
     },
     {
@@ -1201,8 +1201,8 @@
       "path": "examples/demo/src/components/Details.jsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 13940,
+        "y": 740
       }
     },
     {
@@ -1213,8 +1213,8 @@
       "path": "examples/demo/src/components/Fireflies.jsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 14250,
+        "y": 880
       }
     },
     {
@@ -1225,8 +1225,8 @@
       "path": "examples/demo/src/components/Scene.jsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 13700,
+        "y": 740
       }
     },
     {
@@ -1237,8 +1237,8 @@
       "path": "examples/demo/src/components/SnippetLang.jsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 14470,
+        "y": 880
       }
     },
     {
@@ -1249,8 +1249,8 @@
       "path": "examples/demo/src/main.jsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 13480,
+        "y": 460
       }
     },
     {
@@ -1261,8 +1261,8 @@
       "path": "examples/demo/src/materials",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 13360,
+        "y": 740
       }
     },
     {
@@ -1273,8 +1273,8 @@
       "path": "examples/demo/src/materials/layerMaterial.js",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 14030,
+        "y": 880
       }
     },
     {
@@ -1285,8 +1285,8 @@
       "path": "examples/demo/src/pmndrs.css",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 13130,
+        "y": 460
       }
     },
     {
@@ -1297,8 +1297,8 @@
       "path": "examples/demo/src/resources",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 12660,
+        "y": 740
       }
     },
     {
@@ -1309,8 +1309,8 @@
       "path": "examples/demo/src/resources/bear.png",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 13590,
+        "y": 880
       }
     },
     {
@@ -1321,8 +1321,8 @@
       "path": "examples/demo/src/resources/bg.jpg",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 13030,
+        "y": 880
       }
     },
     {
@@ -1333,8 +1333,8 @@
       "path": "examples/demo/src/resources/ground.png",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 12810,
+        "y": 880
       }
     },
     {
@@ -1345,8 +1345,8 @@
       "path": "examples/demo/src/resources/javascript-code.js",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 13810,
+        "y": 880
       }
     },
     {
@@ -1357,8 +1357,8 @@
       "path": "examples/demo/src/resources/leaves1.png",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 12590,
+        "y": 880
       }
     },
     {
@@ -1369,8 +1369,8 @@
       "path": "examples/demo/src/resources/leaves2.png",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 12370,
+        "y": 880
       }
     },
     {
@@ -1381,8 +1381,8 @@
       "path": "examples/demo/src/resources/stars.png",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 12150,
+        "y": 880
       }
     },
     {
@@ -1393,8 +1393,8 @@
       "path": "examples/demo/src/resources/typescript-code.js",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 13370,
+        "y": 880
       }
     },
     {
@@ -1405,8 +1405,8 @@
       "path": "examples/demo/src/styles.css",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 12320,
+        "y": 460
       }
     },
     {
@@ -1417,8 +1417,8 @@
       "path": "examples/demo/src/utils",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 11930,
+        "y": 880
       }
     },
     {
@@ -1429,8 +1429,8 @@
       "path": "examples/demo/src/utils/copy-to-clipboard.js",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 12330,
+        "y": 1020
       }
     },
     {
@@ -1441,8 +1441,8 @@
       "path": "examples/demo/vite.config.js",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 12360,
+        "y": 320
       }
     },
     {
@@ -1453,8 +1453,8 @@
       "path": "examples/starter",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 11130,
+        "y": 180
       }
     },
     {
@@ -1465,8 +1465,8 @@
       "path": "examples/starter/README.md",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 12140,
+        "y": 320
       }
     },
     {
@@ -1477,8 +1477,8 @@
       "path": "examples/starter/index.html",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 11920,
+        "y": 320
       }
     },
     {
@@ -1489,8 +1489,8 @@
       "path": "examples/starter/package.json",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 11700,
+        "y": 320
       }
     },
     {
@@ -1501,8 +1501,8 @@
       "path": "examples/starter/src",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 11350,
+        "y": 320
       }
     },
     {
@@ -1513,8 +1513,8 @@
       "path": "examples/starter/src/assets",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 11810,
+        "y": 460
       }
     },
     {
@@ -1525,8 +1525,8 @@
       "path": "examples/starter/src/assets/zustand-mascot.svg",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 11810,
+        "y": 600
       }
     },
     {
@@ -1537,8 +1537,8 @@
       "path": "examples/starter/src/index.css",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 11590,
+        "y": 460
       }
     },
     {
@@ -1549,8 +1549,8 @@
       "path": "examples/starter/src/index.tsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 11370,
+        "y": 460
       }
     },
     {
@@ -1561,8 +1561,8 @@
       "path": "examples/starter/src/vite-env.d.ts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 11150,
+        "y": 460
       }
     },
     {
@@ -1573,8 +1573,8 @@
       "path": "examples/starter/tsconfig.json",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 11130,
+        "y": 320
       }
     },
     {
@@ -1585,8 +1585,8 @@
       "path": "examples/starter/vite.config.ts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 10910,
+        "y": 320
       }
     },
     {
@@ -1597,8 +1597,8 @@
       "path": "package.json",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 14800,
+        "y": 40
       }
     },
     {
@@ -1609,8 +1609,8 @@
       "path": "pnpm-lock.yaml",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 15020,
+        "y": 40
       }
     },
     {
@@ -1621,8 +1621,8 @@
       "path": "pnpm-workspace.yaml",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 15240,
+        "y": 40
       }
     },
     {
@@ -1633,8 +1633,8 @@
       "path": "rollup.config.mjs",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 15460,
+        "y": 40
       }
     },
     {
@@ -1645,8 +1645,8 @@
       "path": "src",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 16740,
+        "y": 40
       }
     },
     {
@@ -1657,8 +1657,8 @@
       "path": "src/index.ts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 18000,
+        "y": 320
       }
     },
     {
@@ -1669,8 +1669,8 @@
       "path": "src/middleware.ts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 17070,
+        "y": 180
       }
     },
     {
@@ -1681,8 +1681,8 @@
       "path": "src/middleware",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 16510,
+        "y": 180
       }
     },
     {
@@ -1693,8 +1693,8 @@
       "path": "src/middleware/combine.ts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 17760,
+        "y": 320
       }
     },
     {
@@ -1705,8 +1705,8 @@
       "path": "src/middleware/devtools.ts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 17480,
+        "y": 460
       }
     },
     {
@@ -1717,8 +1717,8 @@
       "path": "src/middleware/immer.ts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 16560,
+        "y": 460
       }
     },
     {
@@ -1729,8 +1729,8 @@
       "path": "src/middleware/persist.ts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 17140,
+        "y": 320
       }
     },
     {
@@ -1741,8 +1741,8 @@
       "path": "src/middleware/redux.ts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 17540,
+        "y": 320
       }
     },
     {
@@ -1753,8 +1753,8 @@
       "path": "src/middleware/ssrSafe.ts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 16680,
+        "y": 320
       }
     },
     {
@@ -1765,8 +1765,8 @@
       "path": "src/middleware/subscribeWithSelector.ts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 16846,
+        "y": 320
       }
     },
     {
@@ -1777,8 +1777,8 @@
       "path": "src/react.ts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 17260,
+        "y": 460
       }
     },
     {
@@ -1789,8 +1789,8 @@
       "path": "src/react",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 16270,
+        "y": 180
       }
     },
     {
@@ -1801,8 +1801,8 @@
       "path": "src/react/shallow.ts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 16270,
+        "y": 320
       }
     },
     {
@@ -1813,8 +1813,8 @@
       "path": "src/shallow.ts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 16050,
+        "y": 180
       }
     },
     {
@@ -1825,8 +1825,8 @@
       "path": "src/traditional.ts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 15930,
+        "y": 460
       }
     },
     {
@@ -1837,8 +1837,8 @@
       "path": "src/types.d.ts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 15810,
+        "y": 180
       }
     },
     {
@@ -1849,8 +1849,8 @@
       "path": "src/vanilla.ts",
       "description": "hello there",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 17190,
+        "y": 600
       }
     },
     {
@@ -1861,8 +1861,8 @@
       "path": "src/vanilla",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 15570,
+        "y": 320
       }
     },
     {
@@ -1873,8 +1873,8 @@
       "path": "src/vanilla/shallow.ts",
       "description": "this saved shows confirmation",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 16210,
+        "y": 460
       }
     },
     {
@@ -1885,8 +1885,8 @@
       "path": "tests",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 19950,
+        "y": 40
       }
     },
     {
@@ -1897,8 +1897,8 @@
       "path": "tests/basic.test.tsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 20830,
+        "y": 180
       }
     },
     {
@@ -1909,8 +1909,8 @@
       "path": "tests/devtools.test.tsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 20610,
+        "y": 180
       }
     },
     {
@@ -1921,8 +1921,8 @@
       "path": "tests/immer.test.tsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 20390,
+        "y": 180
       }
     },
     {
@@ -1933,8 +1933,8 @@
       "path": "tests/middlewareTypes.test.tsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 20170,
+        "y": 180
       }
     },
     {
@@ -1945,8 +1945,8 @@
       "path": "tests/persistAsync.test.tsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 19950,
+        "y": 180
       }
     },
     {
@@ -1957,8 +1957,8 @@
       "path": "tests/persistSync.test.tsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 19730,
+        "y": 180
       }
     },
     {
@@ -1969,8 +1969,8 @@
       "path": "tests/setup.ts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 19510,
+        "y": 180
       }
     },
     {
@@ -1981,8 +1981,8 @@
       "path": "tests/shallow.test.tsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 19290,
+        "y": 180
       }
     },
     {
@@ -1993,8 +1993,8 @@
       "path": "tests/ssr.test.tsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 19070,
+        "y": 180
       }
     },
     {
@@ -2005,8 +2005,8 @@
       "path": "tests/subscribe.test.tsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 18850,
+        "y": 180
       }
     },
     {
@@ -2017,8 +2017,8 @@
       "path": "tests/test-utils.ts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 19840,
+        "y": 320
       }
     },
     {
@@ -2029,8 +2029,8 @@
       "path": "tests/types.test.tsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 18610,
+        "y": 180
       }
     },
     {
@@ -2041,8 +2041,8 @@
       "path": "tests/vanilla",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 18330,
+        "y": 180
       }
     },
     {
@@ -2053,8 +2053,8 @@
       "path": "tests/vanilla/basic.test.ts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 18660,
+        "y": 320
       }
     },
     {
@@ -2065,8 +2065,8 @@
       "path": "tests/vanilla/shallow.test.tsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 18440,
+        "y": 320
       }
     },
     {
@@ -2077,8 +2077,8 @@
       "path": "tests/vanilla/subscribe.test.tsx",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 18220,
+        "y": 320
       }
     },
     {
@@ -2089,8 +2089,8 @@
       "path": "tsconfig.json",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 20170,
+        "y": 40
       }
     },
     {
@@ -2101,8 +2101,8 @@
       "path": "vitest.config.mts",
       "description": "",
       "pos": {
-        "x": 0,
-        "y": 0
+        "x": 20390,
+        "y": 40
       }
     }
   ],
